@@ -1,0 +1,14 @@
+.first
+{
+    color: black ;
+    font-size: 20px !important;
+    font-family: 'Poppins';font-size: 22px;
+}
+
+.card
+{
+  
+    border-radius: 4ch;
+    /* text-align: center; */
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
